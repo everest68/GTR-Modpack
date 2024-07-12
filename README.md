@@ -1,4 +1,11 @@
 # GTR-Modpack
+Was ist der GTR-Mod?
+Die Idee zu dem Mod ist nicht von Josch und sie ist auch nicht neu. Josch fand sie aber so toll, dass er sie aufgegriffen hat um die Tradition von Panzerrennen in World of Tanks fortführen zu können. Der Mod ist eine Ansammlung von Panzerskins im Renndesign und in die Karten gezeichnete Strecken, all das wurde von Josch gestaltet. Ein Launcher gestattet es dabei auch Ungeübten den Mod zu aktivieren / deaktivieren.
+
+In Erinnerung an Josch
+
+Spassbataillon 2024
+
 
 Installer: https://github.com/everest68/GTR-Modpack/releases/download/Rebuild/GTR-Installer.exe
 
@@ -26,6 +33,7 @@ Endbildschirm:
 ![image](https://github.com/user-attachments/assets/960391af-5aca-4032-8051-64325b542300)
 
 
+https://www.german-tank-racing.de/
 
 
 
