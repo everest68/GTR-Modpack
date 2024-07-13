@@ -7,7 +7,7 @@ In Erinnerung an Josch
 Spassbataillon 2024
 
 
-Installer: https://github.com/everest68/GTR-Modpack/releases/download/Rebuild/GTR-Installer.exe
+Installer: https://github.com/everest68/GTR-Modpack/releases/download/Rebuild/GTR-Mod-Installer.exe
 
 Installer starten
 WoT-Standardverzeichnis wird automatisch erkannt:
