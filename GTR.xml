@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xml>
-  <Table>
-    <Row>
       <version>1.24.1.5</version>
       <ordnerversion>1.24.1.2</ordnerversion>
       <eventDatum>2024-07-22</eventDatum>
       <eventName>eingeschränkte Mod-Funktionalität</eventName>
       <eventText>In der Zeit vom 21.07. bis zum 03.08.2024 wird der GTR-Mod im Funktionsumfang eingeschränkt. Während dieser Zeit stehen weder die Rennstrecken noch die Panzerskins zur Verfügung.</eventText>
-    </Row>
-  </Table>
 </xml>
