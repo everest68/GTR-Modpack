@@ -14,7 +14,12 @@ GTR-Mod für WoT-Version: 1.26.0.0
 
 
 ## Installations-Anleitung
-Installer starten
+Installer starten, Auf * *Weitere Informationen* * klicken
+![image](https://github.com/user-attachments/assets/8c24aca9-0575-4541-9f82-8bed47a91bbb)
+
+Anschließend * *Trotzdem ausführen* * wählen
+![image](https://github.com/user-attachments/assets/3eb35011-c2c0-4895-8e5f-7e1b304b4d67)
+
 WoT-Standardverzeichnis wird automatisch erkannt:
 
 ![image](https://github.com/user-attachments/assets/f272e3c3-5e29-4ef8-90e3-8c797cbc7137)
