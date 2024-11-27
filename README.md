@@ -10,7 +10,7 @@ Spassbataillon 2024
 Installer: https://github.com/everest68/GTR-Modpack/releases/download/Rebuild/GTR-Mod-Installer.exe
 
 ## Version-Info
-GTR-Mod für WoT-Version: 1.26.1.2 [Map Rework]
+GTR-Mod für WoT-Version: 1.27.0.0 (27.11.2024)
 
 
 
