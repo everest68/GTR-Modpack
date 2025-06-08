@@ -11,6 +11,7 @@ Installer: https://github.com/everest68/GTR-Modpack/releases/download/Rebuild/GT
 
 ## Version-Info
 GTR-Mod für WoT-Version: 1.29.0.1 (08.06.2025) **ACHTUNG: Neue Installer Version!**
+<span style="color:red">some *red* text</span>
 
 
 
