@@ -17,32 +17,61 @@ GTR-Mod für WoT-Version: 2.1.0.2 (18.12.2025)
 
 ## Installations-Anleitung
 Installer starten, Auf * *Weitere Informationen* * klicken
-![image](https://github.com/user-attachments/assets/8c24aca9-0575-4541-9f82-8bed47a91bbb)
+
+<img width="583" height="547" alt="image" src="https://github.com/user-attachments/assets/35930275-3ee6-4583-bcbb-13ce647e9f1c" />
+
+
 
 Anschließend * *Trotzdem ausführen* * wählen
-![image](https://github.com/user-attachments/assets/3eb35011-c2c0-4895-8e5f-7e1b304b4d67)
 
-WoT-Standardverzeichnis wird automatisch erkannt:
+<img width="577" height="543" alt="image" src="https://github.com/user-attachments/assets/397e937e-8e0d-4851-a17b-0f5200635dec" />
 
-![image](https://github.com/user-attachments/assets/f272e3c3-5e29-4ef8-90e3-8c797cbc7137)
+
+Dialog mit Ja bestätigen
+
+<img width="662" height="628" alt="image" src="https://github.com/user-attachments/assets/e142666a-ddef-474e-92af-3cc477598d4e" />
+
+
+
+
+# Liegt WoT im Standardverzeichnis C:\Games\ wird dies automatisch erkannt:
+
+<img width="542" height="428" alt="image" src="https://github.com/user-attachments/assets/061d608f-6620-426d-ace5-77f84995cbfd" />
 
 Folgende Meldung mit Ja bestätigen
 
-![image](https://github.com/user-attachments/assets/5101c8dc-085d-4057-a7e8-1f054dc55fb5)
+<img width="542" height="425" alt="image" src="https://github.com/user-attachments/assets/0cfa81d0-a670-427b-8aea-626baffc163b" />
+
+
+
+# Liegt WoT NICHT im Standardverzeichnis C:\Games\ kann man sein Verzeichnis auswählen, hierzu Browse... klicken:
+
+<img width="545" height="427" alt="image" src="https://github.com/user-attachments/assets/364f5686-a606-4210-952e-6509539f4db9" />
+
+Verzeichnis auswählen und mit OK bestätigen:
+
+<img width="539" height="415" alt="image" src="https://github.com/user-attachments/assets/bd5ac085-286a-4636-a7cf-ec835c022f9e" />
+
+Folgende Meldung mit Ja bestätigen
+
+<img width="541" height="419" alt="image" src="https://github.com/user-attachments/assets/432729b9-50c6-4977-b160-e7566bdbb1cc" />
+
+
+
 
 Saubere Installation wählen:
 
-![image](https://github.com/user-attachments/assets/1399c3c1-29ff-4fcd-9423-02675dc8df73)
+<img width="544" height="420" alt="image" src="https://github.com/user-attachments/assets/a4512d6d-72c5-4429-9b60-99ec49763d7e" />
 
-![image](https://github.com/user-attachments/assets/ad753cf5-68c9-4ea0-9c28-327486ce34a2)
+<img width="540" height="426" alt="image" src="https://github.com/user-attachments/assets/0011b4b4-75f8-450c-819d-0437412a7d4c" />
+
 
 Download und Installation werden ausgeführt:
 
-![image](https://github.com/user-attachments/assets/55e8f369-e492-4b79-9af5-1da3b5c0a291)
+<img width="537" height="422" alt="image" src="https://github.com/user-attachments/assets/334ecac3-19e3-4f54-8146-35db100b3a16" />
 
-Endbildschirm:
 
-![image](https://github.com/user-attachments/assets/960391af-5aca-4032-8051-64325b542300)
+<img width="137" height="120" alt="image" src="https://github.com/user-attachments/assets/d72637d5-c2ba-49fa-a9a2-15ba28daed10" />
 
 
 https://www.german-tank-racing.de/
